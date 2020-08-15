@@ -2,68 +2,66 @@
   "main": {
     "name":"Daniel Moore",
     "occupation":"Software Development Engineer in Test",
-    "description":"PLACEHOLDER",
+    "description":"Cool dude with a cooler wife. True Top Gun Maverick.",
     "image":"profilepic.jpg",
-    "bio":"PLACEHOLDER",
+    "bio":"bio, put stuff here",
     "contactmessage":"PLACEHOLDER",
     "email": "danieldanielmooremoore@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "DELETE",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"DELETE",
+      "city":"DELETE",
+      "state":"DELETE",
+      "zip": "DELETE"
     },
     "website": "PLACEHOLDER",
-    "resumedownload":"PLACEHOLDER",
+    "resumedownload":"DELETE",
     "social":[]
   },
   "resume":{
-    "skillmessage":"PLACEHOLDER",
+    "skillmessage":"n/a",
     "education":[
       {
-        "school":"PLACEHOLDER",
-        "degree":"PLACEHOLDER",
-        "graduated":"PLACEHOLDER",
-        "description":"PLACEHOLDER"
+        "school":"Eastern Washington University",
+        "degree":"B.S. Computer Science",
+        "graduated":"2015",
+        "description":"n/a"
       }
     ],
     "work":[
       {
-        "company":"PLACEHOLDER",
-        "title":"PLACEHOLDER",
-        "years":"PLACEHOLDER",
-        "description":"PLACEHOLDER"
+        "company":"RiskLens",
+        "title":"QA Engineer",
+        "years":"1",
+        "description":"Test code, automate tests"
+      },
+      {
+        "company":"RiskLens",
+        "title":"QA Engineer",
+        "years":"1",
+        "description":"Test code, automate tests"
       }
     ],
     "skills":[
       {
-        "name":"PLACEHOLDER",
-        "level":"60%"
-      },
-      {
-        "name":"PLACEHOLDER",
-        "level":"55%"
-      },
-      {
-        "name":"PLACEHOLDER",
-        "level":"50%"
-      },
-      {
-        "name":"PLACEHOLDER",
+        "name":"Automated Selenium Testing",
         "level":"90%"
       },
       {
-        "name":"PLACEHOLDER",
-        "level":"80%"
+        "name":"Jenkins / Teamcity",
+        "level":"90%"
       },
       {
-        "name":"PLACEHOLDER",
-        "level":"50%"
+        "name":"CI/CD Pipeline",
+        "level":"60%"
       },
       {
-        "name":"PLACEHOLDER",
-        "level":"80%"
+        "name":"Teamwork",
+        "level":"100%"
+      },
+      {
+        "name":"Perfect Smile",
+        "level":"100%"
       }
     ]
   },
